@@ -9,7 +9,7 @@ export default defineConfig({
                 main: resolve(__dirname, 'index.html'),
                 category: resolve(__dirname, './category.html'),
                 checkout: resolve(__dirname, './checkout.html'),
-                cartnewpage: resolve(__dirname, './cart-new-page.html'),
+                cartnewpage: resolve(__dirname, './cartPage.html'),
                 productpage: resolve(__dirname, './product-page.html'),
             },
         },
